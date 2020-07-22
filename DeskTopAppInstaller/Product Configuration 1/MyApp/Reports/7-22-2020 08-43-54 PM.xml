@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="C:\Program Files (x86)\InstallShield\2020\Support\0409\buildreport.xsl"?>
+<BuildReport ProductName="Desktop-App Installer" ProductVersion="1.00.0000" Built="7-22-2020 08-43-54 PM" Config="Product Configuration 1" Media="MyApp" Uncompressed="0.00 MB">
+  <Features>
+    <Feature Title="##ID_STRING8##" Description="##ID_STRING9##">WPF_Application</Feature>
+  </Features>
+  <Components>
+    <Component x64="64">Configuration</Component>
+    <Component x64="64">Executable</Component>
+  </Components>
+  <Prerequisites />
+  <MergeModules />
+  <DynamicLinks>
+    <DynamicLink Include="*.config" Exclude="*.vshost.exe.config">&lt;PATH_TO_WPF APPLICATION_FILES&gt;\KudosApp\KudosApp\bin\Release</DynamicLink>
+  </DynamicLinks>
+  <Files>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Ola Grand\Kudos" Component="Configuration" Modified="16-07-2020 16:28:04" Size="260" Version="">KudosApp.exe.config</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Ola Grand\Kudos" Component="Executable" Modified="16-07-2020 16:28:04" Size="1035264" Version="1.0.0.0">KudosApp.exe</File>
+  </Files>
+</BuildReport>
