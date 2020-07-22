@@ -79,7 +79,11 @@
            </suiteXmlFiles>
           </configuration>
           </plugin>
-          <plugin>
+        <plugin>
+          <artifactId>maven-jar-plugin</artifactId>
+          <version>3.0.2</version>
+        </plugin>
+        <plugin>
           <artifactId>maven-install-plugin</artifactId>
           <version>2.5.2</version>
         </plugin>
