@@ -90,3 +90,32 @@
 2020-07-22 17:55:44,552 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\InstallshieldPipeline\demoProject1\src\main\resources
 2020-07-22 17:55:44,554 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2020-07-22 17:55:44,555 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\InstallshieldPipeline\demoProject1\src\test\resources
+2020-07-22 20:54:00,925 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-22 20:54:00,928 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\InstallshieldPipeline\demoProject1\src\main\resources
+2020-07-22 20:54:00,931 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-22 20:54:00,931 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\InstallshieldPipeline\demoProject1\src\test\resources
+2020-07-22 20:54:14,884 [Worker-15: Launching demoProject1 (2)] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\InstallshieldPipeline\demoProject1
+2020-07-22 20:54:14,885 [Worker-15: Launching demoProject1 (2)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean package
+2020-07-22 20:54:59,412 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-22 20:54:59,413 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\InstallshieldPipeline\demoProject1\src\main\resources
+2020-07-22 20:54:59,421 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-22 20:54:59,422 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\InstallshieldPipeline\demoProject1\src\test\resources
+2020-07-22 20:55:05,908 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-22 20:55:05,908 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\InstallshieldPipeline\demoProject1\src\main\resources
+2020-07-22 20:55:05,912 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-22 20:55:05,912 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\InstallshieldPipeline\demoProject1\src\test\resources
+2020-07-22 20:55:06,964 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-22 20:55:06,965 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\InstallshieldPipeline\demoProject1\src\main\resources
+2020-07-22 20:55:06,970 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-22 20:55:06,971 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\InstallshieldPipeline\demoProject1\src\test\resources
+2020-07-22 20:55:16,427 [Worker-22: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-07-22 20:55:18,027 [Worker-22: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.Muntasirlab:demoProject:0.0.1-SNAPSHOT @ C:\InstallshieldPipeline\demoProject1\pom.xml.
+2020-07-22 20:55:26,850 [Worker-22: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /demoProject1/src/main/java
+2020-07-22 20:55:26,851 [Worker-22: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /demoProject1/src/test/java
+2020-07-22 20:55:27,077 [Worker-22: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 10 sec
+2020-07-22 20:55:28,598 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-22 20:55:28,599 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\InstallshieldPipeline\demoProject1\src\main\resources
+2020-07-22 20:55:28,601 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-22 20:55:28,602 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\InstallshieldPipeline\demoProject1\src\test\resources
+2020-07-22 20:55:28,619 [Worker-21: Launching demoProject1 (2)] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\InstallshieldPipeline\demoProject1
+2020-07-22 20:55:28,619 [Worker-21: Launching demoProject1 (2)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean package
